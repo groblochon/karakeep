@@ -558,7 +558,7 @@
           "fileName"
         ]
       },
-      "File to be uploaded": {}
+      "FileUploaded": {}
     },
     "parameters": {
       "BookmarkId": {
@@ -3512,7 +3512,7 @@
                 "type": "object",
                 "properties": {
                   "file": {
-                    "$ref": "#/components/schemas/File to be uploaded"
+                    "$ref": "#/components/schemas/FileUploaded"
                   }
                 },
                 "required": [
